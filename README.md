@@ -15,3 +15,4 @@ La gráficación de los estados de ánimo se realiza con una gráfica de barras 
 
 Además cuenta con un botón de reset por si se desea volver a iniciar los datos desde cero.
 
+Para su uso basta con que el usuario descargue en su dispositivo móvil (con sistema operativo Android): MoodTracker_template.apk
