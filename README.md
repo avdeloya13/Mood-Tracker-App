@@ -1,5 +1,7 @@
 # Mood Tracker App
 
+-Ana Valeria Deloya Andrade
+
 - Es una aplicación para dispositivos móviles hecha en MIT App Inventor que grafica el estado de ánimo que vaya introduciendo el usuario mediante el uso de los botones Happy, Angry y Sad.
 
 <p align="center">
